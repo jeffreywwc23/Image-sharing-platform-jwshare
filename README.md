@@ -1,2 +1,2 @@
-# image-sharing-platform-jwshare
+# Image-sharing-platform-jwshare
  
